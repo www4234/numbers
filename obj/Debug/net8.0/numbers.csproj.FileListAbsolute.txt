@@ -1,0 +1,14 @@
+/home/cesium/projects/numbers/bin/Debug/net8.0/numbers
+/home/cesium/projects/numbers/bin/Debug/net8.0/numbers.deps.json
+/home/cesium/projects/numbers/bin/Debug/net8.0/numbers.runtimeconfig.json
+/home/cesium/projects/numbers/bin/Debug/net8.0/numbers.dll
+/home/cesium/projects/numbers/bin/Debug/net8.0/numbers.pdb
+/home/cesium/projects/numbers/obj/Debug/net8.0/numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/cesium/projects/numbers/obj/Debug/net8.0/numbers.AssemblyInfoInputs.cache
+/home/cesium/projects/numbers/obj/Debug/net8.0/numbers.AssemblyInfo.cs
+/home/cesium/projects/numbers/obj/Debug/net8.0/numbers.csproj.CoreCompileInputs.cache
+/home/cesium/projects/numbers/obj/Debug/net8.0/numbers.dll
+/home/cesium/projects/numbers/obj/Debug/net8.0/refint/numbers.dll
+/home/cesium/projects/numbers/obj/Debug/net8.0/numbers.pdb
+/home/cesium/projects/numbers/obj/Debug/net8.0/numbers.genruntimeconfig.cache
+/home/cesium/projects/numbers/obj/Debug/net8.0/ref/numbers.dll
